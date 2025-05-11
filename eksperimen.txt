@@ -1,7 +1,3 @@
 Ini baris pertama dari file eksperimen
-<<<<<<< HEAD
-Perubahan belum siap untuk commit
-=======
 Perubahan belum siap untuk commit
 Ini fitur khusus hanya ada di fitur-a
->>>>>>> e6e25c1 (Tambah fitur khusus dari fitur-a)
